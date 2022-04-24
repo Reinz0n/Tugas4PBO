@@ -1,4 +1,4 @@
 # Tugas4PBO
-Nama  : Mikhael Rivandio Rekzadianto
-NIM   : 123200078
-Plug  : IF B
+Nama&emsp;: Mikhael Rivandio Rekzadianto\
+NIM&emsp;&ensp;&nbsp;: 123200078\
+Plug&emsp;&ensp;&nbsp;: IF B
